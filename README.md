@@ -5,7 +5,7 @@
 My name is Ola Dziedziuch and I am working as a recruiter, but now I would like to start working as a **Test Engineer**.
 
 I have graduated Production and Engineering Management in the Faculty of Computer Science and Information Technology.
-I have started to be interested in software testing for almost dwo years. **During this time I have gained solid theoretical knowledge of testing theory and the basics of programming.**
+I have started to be interested in software testing for almost two years. **During this time I have gained solid theoretical knowledge of testing theory and the basics of programming.**
 
 My goal is to gain practical knowledge in the testing area and to improve my technical skills. 
 
