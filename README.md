@@ -81,7 +81,7 @@ In this repository I would like to share my all gained experience from personal 
 
 * [Exploratory Zaprojektuj-koszulke.pl](https://github.com/OlaDziedziuch/test-mentoring-with-nicole/tree/master/9-exploratory-testing%26testreport)
 
-* [Exploartory Zielarnia-24.pl](https://github.com/OlaDziedziuch/test-mentoring-with-nicole/tree/master/5-exploratory-testing)
+* [Exploratory Zielarnia-24.pl](https://github.com/OlaDziedziuch/test-mentoring-with-nicole/tree/master/5-exploratory-testing)
 
 * [Defects report Tania-sukienka.pl](https://github.com/OlaDziedziuch/test-mentoring-with-nicole/tree/master/6-defects-report)
 
