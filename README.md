@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is Ola Dziedziuch and I am working as a recruiter, but now I would like to start working as a **Test Engineer**.
+My name is Ola Dziedziuch and I am working as a recruiter, but now I would like to start working as a **Test Engineer** / **QA Engineer**.
 
 I have graduated Production and Engineering Management in the Faculty of Computer Science and Information Technology.
 I have started to be interested in software testing for almost two years. **During this time I have gained solid theoretical knowledge of testing theory and the basics of programming.**
@@ -46,6 +46,7 @@ In this repository I would like to share my all gained experience from personal 
 * A. Roman - Testowanie i jakość oprogramowania - metody, narzędzia
 * K. Zmitrowicz, A. Roman -  Testowanie oprogramowania w praktyce. Studium przypadków
 * K. Zmitrowicz, A. Roman - Testowanie oprogramowania w praktyce. Studium przypadków 2.0
+* K. Pawłowska, N. Pawlak - Fun with bugs
 
 ## Groups on Facebook
 * Tester oprogramowania - wsparcie na starcie
