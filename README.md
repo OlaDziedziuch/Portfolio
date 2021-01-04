@@ -38,7 +38,7 @@ In this repository I would like to share my all gained experience from personal 
 ## Courses
 * SQL for beginners
 * Java for beginners - Testelka
-* Java dla Testerów - Bartosz Kita (in progress)
+* [Java dla Testerów - Bartosz Kita (in progress)](https://github.com/OlaDziedziuch/java_dla_testera/tree/main)
 
 ## Books
 * R. Smilgin - Zawód tester
